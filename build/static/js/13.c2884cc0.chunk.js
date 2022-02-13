@@ -1,0 +1,2 @@
+(this.webpackJsonpmambapad=this.webpackJsonpmambapad||[]).push([[13],{190:function(a,n,t){"use strict";t.r(n),t.d(n,"default",(function(){return c}));t(2);var s=t(11);function c(){return Object(s.jsx)("div",{className:"background"})}}}]);
+//# sourceMappingURL=13.c2884cc0.chunk.js.map
